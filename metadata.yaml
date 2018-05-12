@@ -1,0 +1,33 @@
+_repo: Tentamen-Botanicum-de-Filicum-Generibus-DorsiferarumM-moires-de-l-Acad-mie-Royale-des-Science__39534
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, James Edward
+    alias: Smith, Sir James Edward
+    birthdate: 1759
+    deathdate: 1828
+    gutenberg_agent_id: '37219'
+    url: http://www.gutenberg.org/2009/agents/37219
+    wikipedia: http://en.wikipedia.org/wiki/James_Edward_Smith
+description: ''
+gutenberg_issued: '2012-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39534'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cyatheaceae'
+- !lcsh 'Aspleniaceae'
+- !lcsh 'Hymenophyllaceae'
+- !lcc 'QK'
+- !lcsh 'Pteridophyta'
+title: 'Tentamen Botanicum de Filicum Generibus Dorsiferarum
+
+  Mémoires de l''Académie Royale des Sciences de Turin vol. 5, 401-422'
+url: http://www.gutenberg.org/ebooks/39534
