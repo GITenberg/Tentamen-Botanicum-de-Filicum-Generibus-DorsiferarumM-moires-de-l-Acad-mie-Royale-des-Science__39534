@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37219
     wikipedia: http://en.wikipedia.org/wiki/James_Edward_Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39534#Tentamen-Botanicum-de-Filicum-Generibus-DorsiferarumM-moires-de-l-Acad-mie-Royale-des-Science_
 gutenberg_issued: '2012-04-25'
 gutenberg_type: Text
 identifiers:
